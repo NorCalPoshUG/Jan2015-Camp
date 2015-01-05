@@ -10,3 +10,8 @@ Related links discussed in the talk.
 	- Github for Windows https://windows.github.com/
 
 - Git Servers
+	- Gitlab http://gitlab.com
+	- Stash https://www.atlassian.com/software/stash
+	- BitBucket https://bitbucket.org/
+	- Github https://github.com
+	- Github Enterprise https://enterprise.github.com/
